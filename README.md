@@ -57,6 +57,6 @@ Use the built-in expert analysis filters:
 *   **Latency:** Analyze the `tcp.time_delta` field, which shows the time between packets in a conversation. High deltas can indicate latency issues.
 
 ---
-*For practice, I am used PCAP files from malware-traffic-analysis.net.*
+*For practice, I used PCAP files from malware-traffic-analysis.net.*
 
 Feel free to correct or add your own notes.
